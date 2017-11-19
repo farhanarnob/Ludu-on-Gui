@@ -1,5 +1,6 @@
 # Ludu-on-Gui
-This is a java project for AIUB in 2015.
+It’s an academic java project. It may violate SOLID principles or Design
+patterns, but it was my first big project.
 
 [ludu 25 November 2015 .zip](https://github.com/farhanarnob/Ludu-on-Gui/files/836446/ludu.25.November.2015.zip)
 
