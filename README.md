@@ -1,6 +1,6 @@
 # Ludu-on-Gui
 A popular local board game.
-You need to enable java first to play.
+You need to install jvm  to play. [You can download from here:](https://www.java.com/en/download/) 
 
 Download: [ludu 25 November 2015 .zip](https://github.com/farhanarnob/Ludu-on-Gui/files/836446/ludu.25.November.2015.zip)
 
